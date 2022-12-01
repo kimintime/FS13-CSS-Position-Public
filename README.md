@@ -1,9 +1,11 @@
 # CSS Assignment - My Assignment
 
-Practice Flex and Grid system
+Practicing Flex and Grid system
 
 ## Requirements
 
-1. Complete the styles.css files in each folder to produce the expect result
-2. There is one expected.png file in each folder, which shows the expected layout. Colors and spacing can be different, but layout is supposed to be similar.
-3. All the changes should be made to file .css only. Do not modify index.html
+The following are my solutions to matching the html to the expected.png
+
+CSS-positions 1 and 2 were solved as a class, but CSS-positions 3 and 4 work are self-study. 
+I had help with the 4th, as the challenge was to achieve the results without editing the HTML,
+and the organization of classes was a mental block.
